@@ -1,0 +1,52 @@
+Great! Based on the information provided, let's create a list of figures for your "TrekLine Vacation & Rentals" project. This list will include key visual elements related to the project. Note that the actual figures would depend on the specific visual representations you have in your project. Here's a general list:
+
+### List of Figures:
+
+1. **User Authentication Screens:**
+   - Figure 1.1: User Login Page
+   - Figure 1.2: User Sign-Up Page
+   - Figure 1.3: Admin Login Page
+   - Figure 1.4: Admin Sign-Up Page
+
+2. **Website Pages:**
+   - Figure 2.1: Homepage (Index)
+   - Figure 2.2: About Us Page
+   - Figure 2.3: Services Page
+       - Subfigure 2.3.1: Tour Agency
+       - Subfigure 2.3.2: Vehicle Rentals
+       - Subfigure 2.3.3: Hotel Booking
+   - Figure 2.4: Gallery Page
+   - Figure 2.5: Contact Page
+   - Figure 2.6: Emergency Page
+
+3. **Booking and Payments:**
+   - Figure 3.1: Trip Booking Interface
+   - Figure 3.2: Hotel Booking Interface
+   - Figure 3.3: Vehicle Booking Interface
+   - Figure 3.4: Online Payment Process
+
+4. **Chatbot Integration:**
+   - Figure 4.1: Chatbot Interface in Action
+   - Figure 4.2: Chatbot Recommendations
+   - Figure 4.3: Interactive Chatbot Conversation
+
+5. **Emergency Response:**
+   - Figure 5.1: Emergency Contact Form
+   - Figure 5.2: Confirmation of Emergency Request
+   - Figure 5.3: Team Dispatch Confirmation
+
+6. **Admin Panel:**
+   - Figure 6.1: Admin Dashboard
+   - Figure 6.2: Payment Status Verification
+   - Figure 6.3: Approval Process
+
+7. **Database Integration:**
+   - Figure 7.1: Data Storage in Admin Panel
+   - Figure 7.2: Database Structure
+
+8. **Website in Action:**
+   - Figure 8.1: User Interacting with the Website
+   - Figure 8.2: Successful Payment Confirmation
+   - Figure 8.3: Declined Payment Notification
+
+These figures provide a visual representation of different aspects of your project, from user authentication and website pages to specific functionalities like booking, payments, chatbot integration, emergency response, admin panel, and database integration. You can customize and expand this list based on the specific visual elements in your project.
